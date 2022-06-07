@@ -28,6 +28,9 @@ header .container{
     height: 80px;
     margin: auto;
 }
+#checkbox-menu{
+    display: none;
+}  
 
 header nav ul{
     display: flex;
